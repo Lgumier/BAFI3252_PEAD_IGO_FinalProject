@@ -18,5 +18,7 @@ It analyses the post-earnings announcement drift (PEAD) following IGO Ltd’s 20
 - Jupyter Notebook
 - Pandas, Matplotlib, Statsmodels
 
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/BAFI3252_PEAD_IGO_FinalProject/blob/main/code/IGO_PEAD_analysis.ipynb)
+
 ## 🤝 License
 MIT License
